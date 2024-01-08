@@ -5,7 +5,9 @@
 | NIM    | 312310632 |
 | KELAS  | TI.23.A6 |
 | DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
-| LINK  | |
+| LINK  |  https://youtu.be/9xPsEckgF0E?si=nImPcLA-nczI8UYb |
+
+
 Program ini menjelaskan program sederhana untuk memesan makanan atau minuman, menghitung total pembelian, dan menampilkan struk pembelian menggunakan library PrettyTable. Berikut adalah penjelasan rinci dari setiap bagian program:
 
 1. **Import Library:**
