@@ -81,5 +81,6 @@ Program ini menjelaskan program sederhana untuk memesan makanan atau minuman, me
    if __name__ == "__main__":
        main()
    ```
+   ![gambar](ss74.png)
    - Ini adalah blok yang akan dijalankan jika skrip dijalankan langsung (bukan diimpor sebagai modul).
    - Memanggil fungsi `main` untuk memulai eksekusi program.
